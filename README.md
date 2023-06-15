@@ -1,3 +1,3 @@
 # DEMO
 
-LOL IS LOL
+LOL IS LOL!
